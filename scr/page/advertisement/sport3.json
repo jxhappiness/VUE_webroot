@@ -1,0 +1,1451 @@
+[{
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "巴塞罗那",
+    "logo": "https://cdn.leisu.com/teamflag_s/d159737531127e403115903764cb5145.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家社会",
+    "logo": "https://cdn.leisu.com/teamflag_s/065f7b96bc2d158b105e660b09e94b7b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-20T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马德里竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/c31d3fb46f33e385d6a6d16cc7d49a77.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "埃瓦尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/230be7f4f23de1cb08877a72cd08f619.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-20T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "毕尔巴鄂竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/b2a647479bd175eb2e61d89f2317e7de.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "西班牙人",
+    "logo": "https://cdn.leisu.com/teamflag_s/a137dbc43d9d374a8dbf5688e4fb3244.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-20T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "巴伦西亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/d8afdd2aee9b8477f97251e6f5f56fc7.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "拉科鲁尼亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/eef01ddd6378734e96492e910981988b.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-20T10:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "比利亚雷亚尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/52cc789d3eb32f3eab4a49f1af071d33.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家马德里",
+    "logo": "https://cdn.leisu.com/teamflag_s/120ac5156dd7f19c7e7d1737aa9aca3f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "拉斯帕尔马斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2c9dc9adc5418645ea51381e681c8968.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "赫罗纳",
+    "logo": "https://cdn.leisu.com/teamflag_s/fec8d47d412bcbeece3d9128ae855a7a.jpg",
+    "rank": "",
+    "score": 2,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马拉加",
+    "logo": "https://cdn.leisu.com/teamflag_s/a07f6c264c625047828e36be37e1be9b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "赫塔菲",
+    "logo": "https://cdn.leisu.com/teamflag_s/82c264de80776a1715dd0602efae48ba.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞维利亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/ca190cc234c4e46a3073a6307079bd13.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "阿拉维斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2e6eead66fb15c8b8a3423f70d5db6b4.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "雷加利斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/c983f36d9590fcb8c4762af81e9b095e.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 1,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家贝蒂斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/e9ad3980ba1926d83294c1eafb352085.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞尔塔",
+    "logo": "https://cdn.leisu.com/teamflag_s/8fef4ddb274fdc75150aecd6c7c68bf3.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "莱万特",
+    "logo": "https://cdn.leisu.com/teamflag_s/59b14017271d81927e701ef4bf40e19f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-19T11:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "莱万特",
+    "logo": "https://cdn.leisu.com/teamflag_s/59b14017271d81927e701ef4bf40e19f.png",
+    "rank": "",
+    "score": 5,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "巴塞罗那",
+    "logo": "https://cdn.leisu.com/teamflag_s/d159737531127e403115903764cb5145.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-13T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "西班牙人",
+    "logo": "https://cdn.leisu.com/teamflag_s/a137dbc43d9d374a8dbf5688e4fb3244.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 3,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "马拉加",
+    "logo": "https://cdn.leisu.com/teamflag_s/a07f6c264c625047828e36be37e1be9b.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-13T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家马德里",
+    "logo": "https://cdn.leisu.com/teamflag_s/120ac5156dd7f19c7e7d1737aa9aca3f.png",
+    "rank": "",
+    "score": 6,
+    "firstScore": 3,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "塞尔塔",
+    "logo": "https://cdn.leisu.com/teamflag_s/8fef4ddb274fdc75150aecd6c7c68bf3.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "阿拉维斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2e6eead66fb15c8b8a3423f70d5db6b4.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "毕尔巴鄂竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/b2a647479bd175eb2e61d89f2317e7de.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家贝蒂斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/e9ad3980ba1926d83294c1eafb352085.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "塞维利亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/ca190cc234c4e46a3073a6307079bd13.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "拉科鲁尼亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/eef01ddd6378734e96492e910981988b.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "比利亚雷亚尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/52cc789d3eb32f3eab4a49f1af071d33.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 3,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "埃瓦尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/230be7f4f23de1cb08877a72cd08f619.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "拉斯帕尔马斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2c9dc9adc5418645ea51381e681c8968.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "赫塔菲",
+    "logo": "https://cdn.leisu.com/teamflag_s/82c264de80776a1715dd0602efae48ba.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "马德里竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/c31d3fb46f33e385d6a6d16cc7d49a77.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "赫罗纳",
+    "logo": "https://cdn.leisu.com/teamflag_s/fec8d47d412bcbeece3d9128ae855a7a.jpg",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "巴伦西亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/d8afdd2aee9b8477f97251e6f5f56fc7.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家社会",
+    "logo": "https://cdn.leisu.com/teamflag_s/065f7b96bc2d158b105e660b09e94b7b.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "雷加利斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/c983f36d9590fcb8c4762af81e9b095e.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-12T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞维利亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/ca190cc234c4e46a3073a6307079bd13.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家马德里",
+    "logo": "https://cdn.leisu.com/teamflag_s/120ac5156dd7f19c7e7d1737aa9aca3f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-09T19:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "巴塞罗那",
+    "logo": "https://cdn.leisu.com/teamflag_s/d159737531127e403115903764cb5145.png",
+    "rank": "",
+    "score": 5,
+    "firstScore": 3,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "比利亚雷亚尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/52cc789d3eb32f3eab4a49f1af071d33.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-09T18:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "雷加利斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/c983f36d9590fcb8c4762af81e9b095e.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "莱万特",
+    "logo": "https://cdn.leisu.com/teamflag_s/59b14017271d81927e701ef4bf40e19f.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-07T19:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "巴塞罗那",
+    "logo": "https://cdn.leisu.com/teamflag_s/d159737531127e403115903764cb5145.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家马德里",
+    "logo": "https://cdn.leisu.com/teamflag_s/120ac5156dd7f19c7e7d1737aa9aca3f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-06T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "拉斯帕尔马斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2c9dc9adc5418645ea51381e681c8968.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "赫塔菲",
+    "logo": "https://cdn.leisu.com/teamflag_s/82c264de80776a1715dd0602efae48ba.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-06T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马德里竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/c31d3fb46f33e385d6a6d16cc7d49a77.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "西班牙人",
+    "logo": "https://cdn.leisu.com/teamflag_s/a137dbc43d9d374a8dbf5688e4fb3244.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-06T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马拉加",
+    "logo": "https://cdn.leisu.com/teamflag_s/a07f6c264c625047828e36be37e1be9b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "阿拉维斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2e6eead66fb15c8b8a3423f70d5db6b4.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-06T10:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "比利亚雷亚尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/52cc789d3eb32f3eab4a49f1af071d33.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "巴伦西亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/d8afdd2aee9b8477f97251e6f5f56fc7.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-05T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞尔塔",
+    "logo": "https://cdn.leisu.com/teamflag_s/8fef4ddb274fdc75150aecd6c7c68bf3.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "拉科鲁尼亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/eef01ddd6378734e96492e910981988b.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-05T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "毕尔巴鄂竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/b2a647479bd175eb2e61d89f2317e7de.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家贝蒂斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/e9ad3980ba1926d83294c1eafb352085.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-05T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "赫罗纳",
+    "logo": "https://cdn.leisu.com/teamflag_s/fec8d47d412bcbeece3d9128ae855a7a.jpg",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "埃瓦尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/230be7f4f23de1cb08877a72cd08f619.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-05T11:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞维利亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/ca190cc234c4e46a3073a6307079bd13.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家社会",
+    "logo": "https://cdn.leisu.com/teamflag_s/065f7b96bc2d158b105e660b09e94b7b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-05-04T19:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家贝蒂斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/e9ad3980ba1926d83294c1eafb352085.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "马拉加",
+    "logo": "https://cdn.leisu.com/teamflag_s/a07f6c264c625047828e36be37e1be9b.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-30T19:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "拉科鲁尼亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/eef01ddd6378734e96492e910981988b.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "巴塞罗那",
+    "logo": "https://cdn.leisu.com/teamflag_s/d159737531127e403115903764cb5145.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-29T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "巴伦西亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/d8afdd2aee9b8477f97251e6f5f56fc7.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "埃瓦尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/230be7f4f23de1cb08877a72cd08f619.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-29T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "阿拉维斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2e6eead66fb15c8b8a3423f70d5db6b4.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "马德里竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/c31d3fb46f33e385d6a6d16cc7d49a77.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-29T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "赫塔菲",
+    "logo": "https://cdn.leisu.com/teamflag_s/82c264de80776a1715dd0602efae48ba.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "赫罗纳",
+    "logo": "https://cdn.leisu.com/teamflag_s/fec8d47d412bcbeece3d9128ae855a7a.jpg",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-29T10:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "比利亚雷亚尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/52cc789d3eb32f3eab4a49f1af071d33.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 3,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "塞尔塔",
+    "logo": "https://cdn.leisu.com/teamflag_s/8fef4ddb274fdc75150aecd6c7c68bf3.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-28T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家马德里",
+    "logo": "https://cdn.leisu.com/teamflag_s/120ac5156dd7f19c7e7d1737aa9aca3f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "雷加利斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/c983f36d9590fcb8c4762af81e9b095e.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-28T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "皇家社会",
+    "logo": "https://cdn.leisu.com/teamflag_s/065f7b96bc2d158b105e660b09e94b7b.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 2,
+    "redCard": 1,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "毕尔巴鄂竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/b2a647479bd175eb2e61d89f2317e7de.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-28T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "西班牙人",
+    "logo": "https://cdn.leisu.com/teamflag_s/a137dbc43d9d374a8dbf5688e4fb3244.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "拉斯帕尔马斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2c9dc9adc5418645ea51381e681c8968.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-28T11:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "莱万特",
+    "logo": "https://cdn.leisu.com/teamflag_s/59b14017271d81927e701ef4bf40e19f.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "塞维利亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/ca190cc234c4e46a3073a6307079bd13.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-27T19:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "毕尔巴鄂竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/b2a647479bd175eb2e61d89f2317e7de.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 3,
+    "cornerKick": 2,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "莱万特",
+    "logo": "https://cdn.leisu.com/teamflag_s/59b14017271d81927e701ef4bf40e19f.png",
+    "rank": "",
+    "score": 3,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 3,
+    "cornerKick": 9,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-23T19:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马德里竞技",
+    "logo": "https://cdn.leisu.com/teamflag_s/c31d3fb46f33e385d6a6d16cc7d49a77.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 8,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家贝蒂斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/e9ad3980ba1926d83294c1eafb352085.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 5,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-22T18:45:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "拉斯帕尔马斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2c9dc9adc5418645ea51381e681c8968.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "阿拉维斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/2e6eead66fb15c8b8a3423f70d5db6b4.png",
+    "rank": "",
+    "score": 4,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-22T16:30:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "马拉加",
+    "logo": "https://cdn.leisu.com/teamflag_s/a07f6c264c625047828e36be37e1be9b.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 2,
+    "redCard": 0,
+    "yellowCard": 4,
+    "cornerKick": 5,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "皇家社会",
+    "logo": "https://cdn.leisu.com/teamflag_s/065f7b96bc2d158b105e660b09e94b7b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 1,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-22T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "赫罗纳",
+    "logo": "https://cdn.leisu.com/teamflag_s/fec8d47d412bcbeece3d9128ae855a7a.jpg",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 1,
+    "cornerKick": 10,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "西班牙人",
+    "logo": "https://cdn.leisu.com/teamflag_s/a137dbc43d9d374a8dbf5688e4fb3244.png",
+    "rank": "",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-22T10:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "塞尔塔",
+    "logo": "https://cdn.leisu.com/teamflag_s/8fef4ddb274fdc75150aecd6c7c68bf3.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 1,
+    "cornerKick": 4,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "巴伦西亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/d8afdd2aee9b8477f97251e6f5f56fc7.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-21T14:15:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "埃瓦尔",
+    "logo": "https://cdn.leisu.com/teamflag_s/230be7f4f23de1cb08877a72cd08f619.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 4,
+    "cornerKick": 8,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "赫塔菲",
+    "logo": "https://cdn.leisu.com/teamflag_s/82c264de80776a1715dd0602efae48ba.png",
+    "rank": "",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 1,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-21T11:00:00Z",
+  "roundNum": 0
+}, {
+  "leagueName": "西班牙甲组联赛",
+  "homeTeam": {
+    "name": "雷加利斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/c983f36d9590fcb8c4762af81e9b095e.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 9,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "拉科鲁尼亚",
+    "logo": "https://cdn.leisu.com/teamflag_s/eef01ddd6378734e96492e910981988b.png",
+    "rank": "",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 2,
+    "cornerKick": 4,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-04-20T19:00:00Z",
+  "roundNum": 0
+}]

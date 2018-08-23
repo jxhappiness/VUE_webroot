@@ -1,0 +1,204 @@
+[{
+  "leagueName": "英格兰超级联赛",
+  "homeTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "利物浦",
+    "logo": "https://cdn.leisu.com/teamflag_s/72168634954ac54e101096c19c32aa1b.png",
+    "rank": "4",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-08-18T14:00:00Z",
+  "roundNum": 2
+}, {
+  "leagueName": "球会友谊",
+  "homeTeam": {
+    "name": "希尔星格",
+    "logo": "https://cdn.leisu.com/teamflag_s/0a31fe605f7813d2d0c4da0dac9383bf.png",
+    "rank": "3",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 11,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 2,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 1,
+    "cornerKick": 3,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-07-12T16:30:00Z",
+  "roundNum": 1
+}, {
+  "leagueName": "球会友谊",
+  "homeTeam": {
+    "name": "哈尔姆斯达斯",
+    "logo": "https://cdn.leisu.com/teamflag_s/3c7781a36bcd6cf08c11a970fbe0e2a6.jpg",
+    "rank": "3",
+    "score": 1,
+    "firstScore": 1,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 8,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 6,
+    "firstScore": 4,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 4,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-07-16T16:30:00Z",
+  "roundNum": 1
+}, {
+  "leagueName": "球会友谊",
+  "homeTeam": {
+    "name": "布罗姆利",
+    "logo": "https://cdn.leisu.com/teamflag_s/cc9657884708170e160c8372d92f3535.png",
+    "rank": "9",
+    "score": 1,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-07-17T18:45:00Z",
+  "roundNum": 1
+}, {
+  "leagueName": "球会友谊",
+  "homeTeam": {
+    "name": "牛津联队",
+    "logo": "https://cdn.leisu.com/teamflag_s/1897c86b6bdf31bbf0af4044b73b0d26.png",
+    "rank": "16",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-07-21T14:00:00Z",
+  "roundNum": 1
+}, {
+  "leagueName": "英格兰超级联赛",
+  "homeTeam": {
+    "name": "富勒姆",
+    "logo": "https://cdn.leisu.com/teamflag_s/347e45255cf2413d7c750f60598a6587.png",
+    "rank": "3",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": -1,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-08-11T14:00:00Z",
+  "roundNum": 1
+}, {
+  "leagueName": "球会友谊",
+  "homeTeam": {
+    "name": "斯蒂文尼奇",
+    "logo": "https://cdn.leisu.com/teamflag_s/363763e5c3dc3a68b399058c34aecf2c.png",
+    "rank": "16",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "awayTeam": {
+    "name": "水晶宫",
+    "logo": "https://cdn.leisu.com/teamflag_s/bbda0e07a545a8b478448acf7460350f.png",
+    "rank": "11",
+    "score": 0,
+    "firstScore": 0,
+    "redCard": 0,
+    "yellowCard": 0,
+    "cornerKick": 0,
+    "overtimeScore": 0,
+    "penaltyScore": 0
+  },
+  "n": false,
+  "matchStartDate": "2018-07-24T18:45:00Z",
+  "roundNum": 1
+}]
